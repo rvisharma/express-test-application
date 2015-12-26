@@ -10,11 +10,11 @@ module.exports = function(grunt) {
           files:['public/**/*.html']
       },
       css: {
-        files: ['public/scss/*.scss'],
+        files: ['public/scss/**/*.scss'],
         tasks: ['sass']
       },
       ts:{
-          files: ["public/ts/*.ts"],
+          files: ["public/ts/**/*.ts"],
           tasks:["ts"]
       }
     },
