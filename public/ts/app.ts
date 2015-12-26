@@ -2,7 +2,7 @@
 
 
 var fun = ()=>{
-    console.log('This is a test.. Testing again');
+    console.log('This is a test.. Testing publish');
     //alert('live successss');
 };
 fun();
