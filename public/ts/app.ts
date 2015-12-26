@@ -2,7 +2,7 @@
 
 
 var fun = ()=>{
-console.log('This is a test.. Master Branch changes');
+console.log('This is a test.. final commit');
 };
 fun();
 // adding comment
