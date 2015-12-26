@@ -1,0 +1,25 @@
+{
+  "name": "myExpressApp",
+  "description": "testing the application",
+  "main": "public/index.html",
+  "authors": [
+    "ravi sharma"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "mth",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-strap": "~2.3.6",
+    "bootstrap": "~3.3.6",
+    "underscore": "~1.8.3"
+  }
+}

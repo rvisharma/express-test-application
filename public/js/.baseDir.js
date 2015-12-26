@@ -1,0 +1,2 @@
+// Ignore this file. See https://github.com/grunt-ts/grunt-ts/issues/77 
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLmJhc2VEaXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi90cy8uYmFzZURpci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSx1RUFBdUUiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBJZ25vcmUgdGhpcyBmaWxlLiBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2dydW50LXRzL2dydW50LXRzL2lzc3Vlcy83NyJdfQ==

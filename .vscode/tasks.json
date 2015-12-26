@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "command": "grunt",
+    "isShellCommand": true,
+    "tasks": [
+        {
+            "taskName": "watch",
+            "showOutput": "silent",
+            "isWatching": true,
+            "isBuildCommand": false
+        },
+        {
+            "taskName": "ts",
+            "showOutput": "silent",
+            "isWatching": false,
+            "isBuildCommand": true
+        },
+        {
+            "taskName": "sass",
+            "showOutput": "silent",
+            "isWatching": false,
+            "isBuildCommand": true
+        }
+    ]
+}

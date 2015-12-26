@@ -1,0 +1,4 @@
+//grunt-start
+/// <reference path="app.ts" />
+//grunt-end 
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicmVmZXJlbmNlcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uL3RzL3JlZmVyZW5jZXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsYUFBYTtBQUNiLCtCQUErQjtBQUMvQixXQUFXIiwic291cmNlc0NvbnRlbnQiOlsiLy9ncnVudC1zdGFydFxyXG4vLy8gPHJlZmVyZW5jZSBwYXRoPVwiYXBwLnRzXCIgLz5cclxuLy9ncnVudC1lbmQiXX0=
