@@ -2,8 +2,7 @@
 
 
 var fun = ()=>{
-    console.log('This is a test.. Testing changes');
-    //alert('live successss');
+console.log('This is a test.. Master Branch changes');
 };
 fun();
 // adding comment
