@@ -5,4 +5,3 @@ var fun = ()=>{
 console.log('This is a test.. final commit');
 };
 fun();
-// adding commentP
