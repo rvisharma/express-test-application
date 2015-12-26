@@ -1,6 +1,4 @@
-////// <reference path="public/ts/reference.ts" />
-var fun = function () {
-    console.log('This is a test.. final commit');
-};
-fun();
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vdHMvYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGtEQUFrRDtBQUdsRCxJQUFJLEdBQUcsR0FBRztJQUNWLE9BQU8sQ0FBQyxHQUFHLENBQUMsK0JBQStCLENBQUMsQ0FBQztBQUM3QyxDQUFDLENBQUM7QUFDRixHQUFHLEVBQUUsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8vLy8vLyA8cmVmZXJlbmNlIHBhdGg9XCJwdWJsaWMvdHMvcmVmZXJlbmNlLnRzXCIgLz5cclxuXHJcblxyXG52YXIgZnVuID0gKCk9PntcclxuY29uc29sZS5sb2coJ1RoaXMgaXMgYSB0ZXN0Li4gZmluYWwgY29tbWl0Jyk7XHJcbn07XHJcbmZ1bigpOyJdfQ==
+/// <reference path="../../typings/angularjs/angular.d.ts" />
+/// <reference path="references.ts" />
+angular.module('testApp', []);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vdHMvYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDZEQUE2RDtBQUc3RCxzQ0FBc0M7QUFFdEMsT0FBTyxDQUFDLE1BQU0sQ0FBQyxTQUFTLEVBQUMsRUFBRSxDQUFDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvLy8gPHJlZmVyZW5jZSBwYXRoPVwiLi4vLi4vdHlwaW5ncy9hbmd1bGFyanMvYW5ndWxhci5kLnRzXCIgLz5cclxuXHJcblxyXG4vLy8gPHJlZmVyZW5jZSBwYXRoPVwicmVmZXJlbmNlcy50c1wiIC8+XHJcblxyXG5hbmd1bGFyLm1vZHVsZSgndGVzdEFwcCcsW10pOyJdfQ==

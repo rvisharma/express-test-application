@@ -1,7 +1,6 @@
-////// <reference path="public/ts/reference.ts" />
+/// <reference path="../../typings/angularjs/angular.d.ts" />
 
 
-var fun = ()=>{
-console.log('This is a test.. final commit');
-};
-fun();
+/// <reference path="references.ts" />
+
+angular.module('testApp',[]);
