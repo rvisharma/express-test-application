@@ -3,4 +3,4 @@
 
 /// <reference path="references.ts" />
 
-angular.module('testApp',[]);
+var app = angular.module('testApp',['ui-bootstrap']);
