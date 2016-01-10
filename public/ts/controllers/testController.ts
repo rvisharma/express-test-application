@@ -6,5 +6,5 @@ module testModule{
             alert('test success');
         }
     }
-    angular.module('myModule').controller('testController', TestController);
+    angular.module('testApp').controller('testController', TestController);
 }

@@ -3,4 +3,4 @@
 
 /// <reference path="references.ts" />
 
-var app = angular.module('myModule',['ngAnimate','ui.bootstrap']);
+var app = angular.module('testApp',['ngAnimate','ui.bootstrap']);
